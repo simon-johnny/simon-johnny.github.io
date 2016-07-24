@@ -1,1 +1,1 @@
-# simon-johnny.github.io
+# [Journal l'Éclat](https://simon-johnny.github.io)
