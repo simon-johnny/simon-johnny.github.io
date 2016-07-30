@@ -1,4 +1,11 @@
-# [Journal l'Éclat](https://simon-johnny.github.io)
+---
+layout: page
+title: About
+---
+
+# Bienvenue
+
+Ici le [journal l'Éclat](https://simon-johnny.github.io)
 
 ## Description
 
