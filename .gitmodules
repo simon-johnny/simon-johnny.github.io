@@ -1,3 +1,6 @@
 [submodule "eclat-articles"]
     path = _posts
     url = https://github.com/simon-johnny/eclat-articles.git
+[submodule "the-program"]
+    path = _theme_packages/the-program
+    url = https://github.com/jekyllbootstrap/theme-the-program.git
