@@ -5,7 +5,7 @@ title: About
 
 # Bienvenue
 
-Ici le [journal l'Éclat](https://simon-johnny.github.io)
+Ici le [journal l'Éclat](https://simon-johnny.github.io) gh-pages
 
 ## Description
 
