@@ -2,13 +2,19 @@
 layout: page
 title: About
 ---
+# Bienvenida
 
-# Bienvenue
+Aquí el [journal l'Éclat](https://simon-johnny.github.io) 
 
-Ici le [journal l'Éclat](https://simon-johnny.github.io) gh-pages
+El propósito de este espacio es la difusión de temas axiales y radiales
+a la actualidad. En tiempos de *convulsión* ética, es pivotal la
+reacción del colectivo global. Los autores esperan humildemente ser una
+ínfima **luz**, un destello, un éclat.
 
-## Description
+## Colaboración
 
-El propósito de este espacio es la difusión de temas axiales y radiales a la actualidad. En tiempos de *convulsión* ética, es pivotal la reacción del colectivo global. Los autores esperan humildemente ser una ínfima **luz**, un destello, un éclat.
+Para colaborar, submitir pull requests. Despues de una revisión, los
+cambios están integrados.
 
----
+Agregar artículos a la carpeta \_posts, siguiendo el metodo esplicatdo
+en \_posts/README.md.

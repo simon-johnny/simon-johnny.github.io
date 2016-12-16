@@ -1,0 +1,21 @@
+---
+layout: post
+title: Declaracion de valores
+date: 2016-07-22 18:12
+---
+
+# Premier article de l'Éclat
+
+# Déclaration des valeurs
+
+* Ouverture
+* Innovation
+* Tech-savvy
+* Multilingual
+* Pluri-cultural
+
+# Mission de l'Éclat
+
+* Valorización de puntos de vista  alternativo
+* El arte como consecuencia de la experiencia humana
+
